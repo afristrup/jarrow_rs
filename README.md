@@ -10,7 +10,7 @@ This is Aksel Fristrup's implementation of various numerical aspects of stochast
 - Hybrid machine learning-classical stochastic models
 - Extreme value statistics and QRM
 - Rough paths and signatures
-- Hedging with transaction costs paper implementation
+- "Hedging with transaction costs" paper implementation
 - Langchain support
 
 ### Future dependencies
